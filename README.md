@@ -4,6 +4,8 @@
 
 ### `구현한 사이트 주소 입니다.` (http://interact-funding.kro.kr/)  
 
+### `유튜브 동영상 보기` [보러가기](https://youtu.be/WEz3ak2d11I)
+
 ## 2. 프로젝트 요구사항
 
 ### - 프로젝트 전반
